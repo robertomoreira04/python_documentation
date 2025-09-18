@@ -2,10 +2,10 @@
 
 from pymongo import MongoClient 
 
-client = MongoClient() # cria conexão com o mongodb da máquina
+client = MongoClient() 
 
-my_db = client.socialmedia # criando o banco de dados 
-my_collection = my_db.posts # criando a coleção
+my_db = client.socialmedia  
+my_collection = my_db.posts 
 
 post1 = {
     "title": "Learning MongoDB",
