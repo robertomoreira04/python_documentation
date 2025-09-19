@@ -2,3 +2,4 @@
 PostgreSQL/__pycache__/postgresql_connection.cpython-312.pyc
 web_scraping/__pycache__/requests.cpython-312.pyc
 web_scraping_and_API/__pycache__/requests.cpython-312.pyc
+requests/__pycache__/requests.cpython-312.pyc
