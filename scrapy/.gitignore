@@ -1,0 +1,12 @@
+venv
+bookscrapy/bookscrapy/__init__.py
+bookscrapy/bookscrapy/__pycache__/__init__.cpython-312.pyc
+bookscrapy/bookscrapy/__pycache__/settings.cpython-312.pyc
+bookscrapy/bookscrapy/items.py
+bookscrapy/bookscrapy/middlewares.py
+bookscrapy/bookscrapy/pipelines.py
+bookscrapy/scrapy.cfg
+bookscrapy/bookscrapy/spiders/__pycache__/__init__.cpython-312.pyc
+bookscrapy/bookscrapy/spiders/__init__.py
+bookscrapy/bookscrapy/settings.py
+bookscrapy/bookscrapy/spiders/__pycache__/bookspider.cpython-312.pyc
