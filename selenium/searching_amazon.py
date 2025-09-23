@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 
 browser = webdriver.Firefox()
 
-browser.get('http://www.amazon.com.br')
+browser.get('https://www.amazon.com.br')
 
 element = browser.find_element(By.ID, 'twotabsearchtextbox')
 element.send_keys('ps5')
