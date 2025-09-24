@@ -4,14 +4,19 @@ Além de servir como material de aprendizado, ele também pode ser utilizado com
 
 🔹 Conteúdo disponível neste repositório:
 
-Fundamentos de Python (conceitos básicos e avançados)
-
-Manipulação e tratamento de dados
-
-Utilização de módulos e bibliotecas
-
-Programação Orientada a Objetos (POO)
-
-Implementação de CRUD com SQLite, PostgreSQL e MongoDB
+- **Fundamentos de Python**
+  - Conceitos básicos e avançados
+- **Manipulação e tratamento de dados**
+- **Utilização de módulos e bibliotecas**
+- **Programação Orientada a Objetos (POO)**
+- **Bancos de dados**
+  - Implementação de CRUD com SQLite
+  - Implementação de CRUD com PostgreSQL
+  - Implementação de CRUD com MongoDB
+- **Web Scraping**
+  - Exemplos com BeautifulSoup
+  - Exemplos com Scrapy
+- **Automações Web**
+  - Exemplos de uso com Selenium
 
 
