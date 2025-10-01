@@ -1,22 +1,40 @@
-Este repositório reúne minha documentação pessoal sobre a linguagem Python, funcionando como um guia de referência dos meus estudos, práticas e anotações.
+# 🐍 Python Documentation
 
-Além de servir como material de aprendizado, ele também pode ser utilizado como portfólio, demonstrando minhas habilidades e conhecimentos em Python por meio de exemplos de código, conceitos de programação e projetos práticos.
+Repositório com exemplos e anotações sobre **Python**, integrando diferentes conceitos, bibliotecas e frameworks.
 
-🔹 Conteúdo disponível neste repositório:
+---
 
-- **Fundamentos de Python**
-  - Conceitos básicos e avançados
-- **Manipulação e tratamento de dados**
-- **Utilização de módulos e bibliotecas**
-- **Programação Orientada a Objetos (POO)**
-- **Bancos de dados**
-  - Implementação de CRUD com SQLite
-  - Implementação de CRUD com PostgreSQL
-  - Implementação de CRUD com MongoDB
-- **Web Scraping**
-  - Exemplos com BeautifulSoup
-  - Exemplos com Scrapy
-- **Automações Web**
-  - Exemplos de uso com Selenium
+## 📂 Conteúdo
+
+- 📘 **Python Basics** → fundamentos da linguagem  
+- 🧱 **Advanced Concepts** → tópicos avançados  
+- 🗂️ **Files Manipulation** → leitura, escrita e manipulação de arquivos  
+- 🧪 **Modules** → criação e uso de módulos  
+- 🧰 **Requests** → requisições HTTP  
+- 🕷️ **BeautifulSoup** → scraping de páginas web  
+- 🧪 **Scrapy** → framework para scraping  
+- 🧪 **Selenium** → automação de navegadores  
+- 🗄️ **SQLite** → banco de dados SQLite  
+- 🗄️ **PostgreSQL** → banco de dados PostgreSQL  
+- 🗄️ **MongoDB** → banco de dados MongoDB  
+- 🧰 **FastAPI** → desenvolvimento de APIs  
+- 🐍 **POO** → Programação Orientada a Objetos  
+
+---
+
+## 🚀 Como usar
+
+```bash
+# Clone o repositório
+git clone https://github.com/robertomoreira04/python_documentation.git
+cd python_documentation
+
+# Crie um ambiente virtual
+python -m venv venv
+source venv/bin/activate   # Linux / Mac
+venv\Scripts\activate      # Windows
+
+# Instale dependências
+pip install -r requirements.txt
 
 
